@@ -1,22 +1,16 @@
 # Spacefolders
 
-Actively creating container images for 46 chains.
+Actively creating container images for 41 chains.
 
 [assetmantle](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=assetmantle): `docker pull asguardnetwork/spacefolders:assetmantle`
 
 [axelar](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=axelar): `docker pull asguardnetwork/spacefolders:axelar`
-
-[tofnd](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=tofnd): `docker pull asguardnetwork/spacefolders:tofnd`
-
-[basilisk](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=basilisk): `docker pull asguardnetwork/spacefolders:basilisk`
 
 [bitcanna](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=bitcanna): `docker pull asguardnetwork/spacefolders:bitcanna`
 
 [bitsong](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=bitsong): `docker pull asguardnetwork/spacefolders:bitsong`
 
 [bostrom](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=bostrom): `docker pull asguardnetwork/spacefolders:bostrom`
-
-[carbon](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=carbon): `docker pull asguardnetwork/spacefolders:carbon`
 
 [cheqd](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=cheqd): `docker pull asguardnetwork/spacefolders:cheqd`
 
@@ -35,8 +29,6 @@ Actively creating container images for 46 chains.
 [decentr](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=decentr): `docker pull asguardnetwork/spacefolders:decentr`
 
 [desmos](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=desmos): `docker pull asguardnetwork/spacefolders:desmos`
-
-[dig](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=dig): `docker pull asguardnetwork/spacefolders:dig`
 
 [emoney](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=emoney): `docker pull asguardnetwork/spacefolders:emoney`
 
@@ -63,8 +55,6 @@ Actively creating container images for 46 chains.
 [likecoin](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=likecoin): `docker pull asguardnetwork/spacefolders:likecoin`
 
 [lumnetwork](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=lumnetwork): `docker pull asguardnetwork/spacefolders:lumnetwork`
-
-[nomic](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=nomic): `docker pull asguardnetwork/spacefolders:nomic`
 
 [neutron](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=neutron): `docker pull asguardnetwork/spacefolders:neutron`
 
