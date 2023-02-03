@@ -14,8 +14,8 @@ docker pull asguardnetwork/spacefolders:assetmantle-0.3.1
 
 ```shell
 docker pull asguardnetwork/spacefolders:axelar
-docker pull asguardnetwork/spacefolders:axelar-v0.31.2
-docker pull asguardnetwork/spacefolders:axelar-0.31.2
+docker pull asguardnetwork/spacefolders:axelar-v0.31.3
+docker pull asguardnetwork/spacefolders:axelar-0.31.3
 ```
 
 [bitcanna](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=bitcanna):
@@ -182,8 +182,8 @@ docker pull asguardnetwork/spacefolders:icqd-lates
 
 ```shell
 docker pull asguardnetwork/spacefolders:ics
-docker pull asguardnetwork/spacefolders:ics-v1.0.0-rc3
-docker pull asguardnetwork/spacefolders:ics-1.0.0-rc3
+docker pull asguardnetwork/spacefolders:ics-v1.0.0-rc4
+docker pull asguardnetwork/spacefolders:ics-1.0.0-rc4
 ```
 
 [irisnet](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=irisnet):
