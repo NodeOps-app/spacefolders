@@ -318,8 +318,8 @@ docker pull asguardnetwork/spacefolders:sommelier-4.0.3
 
 ```shell
 docker pull asguardnetwork/spacefolders:stargaze
-docker pull asguardnetwork/spacefolders:stargaze-v8.0.0
-docker pull asguardnetwork/spacefolders:stargaze-8.0.0
+docker pull asguardnetwork/spacefolders:stargaze-v8.1.0
+docker pull asguardnetwork/spacefolders:stargaze-8.1.0
 ```
 
 [stride](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=stride):
