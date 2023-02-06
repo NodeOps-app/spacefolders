@@ -1,6 +1,6 @@
 # Spacefolders
 
-Actively creating container images for 49 chains.
+Actively creating container images for 44 chains.
 
 [assetmantle](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=assetmantle):
 
