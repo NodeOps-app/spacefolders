@@ -186,6 +186,14 @@ docker pull asguardnetwork/spacefolders:ics-v1.0.0-rc4
 docker pull asguardnetwork/spacefolders:ics-1.0.0-rc4
 ```
 
+[injective](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=injective):
+
+```shell
+docker pull asguardnetwork/spacefolders:injective
+docker pull asguardnetwork/spacefolders:injective-v1.9.0-1673970775
+docker pull asguardnetwork/spacefolders:injective-1.9.0-1673970775
+```
+
 [irisnet](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=irisnet):
 
 ```shell
