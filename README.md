@@ -1,6 +1,14 @@
 # Spacefolders
 
-Actively creating container images for 44 chains.
+Actively creating container images for 45 chains.
+
+[acrechain](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=acrechain):
+
+```shell
+docker pull asguardnetwork/spacefolders:acrechain
+docker pull asguardnetwork/spacefolders:acrechain-v1.1.1
+docker pull asguardnetwork/spacefolders:acrechain-1.1.1
+```
 
 [assetmantle](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=assetmantle):
 
