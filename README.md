@@ -318,8 +318,8 @@ docker pull asguardnetwork/spacefolders:sifchain-1.1.0-be
 
 ```shell
 docker pull asguardnetwork/spacefolders:sim
-docker pull asguardnetwork/spacefolders:sim-v0.45.12
-docker pull asguardnetwork/spacefolders:sim-0.45.12
+docker pull asguardnetwork/spacefolders:sim-v0.46.9
+docker pull asguardnetwork/spacefolders:sim-0.46.9
 ```
 
 [sommelier](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=sommelier):
@@ -369,3 +369,4 @@ docker pull asguardnetwork/spacefolders:vidulum
 docker pull asguardnetwork/spacefolders:vidulum-v1.2.0
 docker pull asguardnetwork/spacefolders:vidulum-1.2.0
 ```
+`
