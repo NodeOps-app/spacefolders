@@ -1,6 +1,6 @@
 # Spacefolders
 
-Actively creating container images for 46 chains.
+Actively creating container images for 47 chains.
 
 [acrechain](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=acrechain):
 
@@ -56,6 +56,14 @@ docker pull asguardnetwork/spacefolders:bostrom-0.3.2
 docker pull asguardnetwork/spacefolders:burnt
 docker pull asguardnetwork/spacefolders:burnt-v0.0.2
 docker pull asguardnetwork/spacefolders:burnt-0.0.2
+```
+
+[celestia-core](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=celestia-core):
+
+```shell
+docker pull asguardnetwork/spacefolders:celestia-core
+docker pull asguardnetwork/spacefolders:celestia-core-v1.14.0-tm-v0.34.23
+docker pull asguardnetwork/spacefolders:celestia-core-1.14.0-tm-v0.34.23
 ```
 
 [celestia-node](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=celestia-node):
