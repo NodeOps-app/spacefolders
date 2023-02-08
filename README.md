@@ -94,8 +94,8 @@ docker pull pratikbin/spacefolders:celestia-node-0.6.4
 
 ```shell
 docker pull pratikbin/spacefolders:cheqd
-docker pull pratikbin/spacefolders:cheqd-v1.2.2
-docker pull pratikbin/spacefolders:cheqd-1.2.2
+docker pull pratikbin/spacefolders:cheqd-v1.2.5
+docker pull pratikbin/spacefolders:cheqd-1.2.5
 ```
 
 [comdex](https://hub.docker.com/r/pratikbin/spacefolders/tags?page=1&name=comdex):
