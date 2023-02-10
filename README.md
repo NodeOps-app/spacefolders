@@ -302,8 +302,8 @@ docker pull noedops/spacefolders:neutron-0.1.1
 
 ```shell
 docker pull noedops/spacefolders:nibiru
-docker pull noedops/spacefolders:nibiru-v0.18.0-rc4
-docker pull noedops/spacefolders:nibiru-0.18.0-rc4
+docker pull noedops/spacefolders:nibiru-v0.19.0-rc1
+docker pull noedops/spacefolders:nibiru-0.19.0-rc1
 ```
 
 [omniflixhub](https://hub.docker.com/r/noedops/spacefolders/tags?page=1&name=omniflixhub):
