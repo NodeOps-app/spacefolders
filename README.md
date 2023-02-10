@@ -230,8 +230,8 @@ docker pull noedops/spacefolders:icqd-lates
 
 ```shell
 docker pull noedops/spacefolders:ics
-docker pull noedops/spacefolders:ics-v1.0.0-rc6
-docker pull noedops/spacefolders:ics-1.0.0-rc6
+docker pull noedops/spacefolders:ics-v1.0.0-rc7
+docker pull noedops/spacefolders:ics-1.0.0-rc7
 ```
 
 [injective](https://hub.docker.com/r/noedops/spacefolders/tags?page=1&name=injective):
