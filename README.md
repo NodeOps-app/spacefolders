@@ -1,6 +1,6 @@
 # Spacefolders
 
-Actively creating container images for 52 chains.
+Actively creating container images for 53 chains.
 
 [acrechain](https://hub.docker.com/r/noedops/spacefolders/tags?page=1&name=acrechain):
 
@@ -8,6 +8,14 @@ Actively creating container images for 52 chains.
 docker pull noedops/spacefolders:acrechain
 docker pull noedops/spacefolders:acrechain-v1.1.1
 docker pull noedops/spacefolders:acrechain-1.1.1
+```
+
+[althea](https://hub.docker.com/r/noedops/spacefolders/tags?page=1&name=althea):
+
+```shell
+docker pull noedops/spacefolders:althea
+docker pull noedops/spacefolders:althea-v0.3.0
+docker pull noedops/spacefolders:althea-0.3.0
 ```
 
 [archway](https://hub.docker.com/r/noedops/spacefolders/tags?page=1&name=archway):
@@ -425,14 +433,7 @@ docker pull noedops/spacefolders:vidulum
 docker pull noedops/spacefolders:vidulum-v1.2.0
 docker pull noedops/spacefolders:vidulum-1.2.0
 ```
-efolders:tendermint-v0.34.24
-docker pull asguardnetwork/spacefolders:tendermint-0.34.24
-```
-
-[terra](https://hub.docker.com/r/asguardnetwork/spacefolders/tags?page=1&name=terra):
-
-```shell
-docker pull asguardnetwork/spacefolders:terra
+terra
 docker pull asguardnetwork/spacefolders:terra-v2.2.1
 docker pull asguardnetwork/spacefolders:terra-2.2.1
 ```
