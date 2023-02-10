@@ -1,6 +1,6 @@
 # Spacefolders
 
-Actively creating container images for 51 chains.
+Actively creating container images for 52 chains.
 
 [acrechain](https://hub.docker.com/r/noedops/spacefolders/tags?page=1&name=acrechain):
 
@@ -322,6 +322,14 @@ docker pull noedops/spacefolders:polygon-bor-v0.3.3
 docker pull noedops/spacefolders:polygon-bor-0.3.3
 ```
 
+[polygon-geth](https://hub.docker.com/r/noedops/spacefolders/tags?page=1&name=polygon-geth):
+
+```shell
+docker pull noedops/spacefolders:polygon-geth
+docker pull noedops/spacefolders:polygon-geth-v0.3.3
+docker pull noedops/spacefolders:polygon-geth-0.3.3
+```
+
 [polygon-heimdall](https://hub.docker.com/r/noedops/spacefolders/tags?page=1&name=polygon-heimdall):
 
 ```shell
@@ -417,15 +425,7 @@ docker pull noedops/spacefolders:vidulum
 docker pull noedops/spacefolders:vidulum-v1.2.0
 docker pull noedops/spacefolders:vidulum-1.2.0
 ```
-ers:vidulum
-docker pull pratikbin/spacefolders:vidulum-v1.2.0
-docker pull pratikbin/spacefolders:vidulum-1.2.0
-```
-dnetwork/spacefolders/tags?page=1&name=tendermint):
-
-```shell
-docker pull asguardnetwork/spacefolders:tendermint
-docker pull asguardnetwork/spacefolders:tendermint-v0.34.24
+efolders:tendermint-v0.34.24
 docker pull asguardnetwork/spacefolders:tendermint-0.34.24
 ```
 
