@@ -1,6 +1,6 @@
 # Spacefolders
 
-Actively creating container images for 54 chains.
+Actively creating container images for 55 chains.
 
 ### [acrechain](https://hub.docker.com/r/noedops/spacefolders/tags?page=1&name=acrechain)
 
@@ -322,6 +322,14 @@ docker pull noedops/spacefolders:onomy-v1.0.1
 docker pull noedops/spacefolders:onomy-1.0.1
 ```
 
+### [osmosis](https://hub.docker.com/r/noedops/spacefolders/tags?page=1&name=osmosis)
+
+```shell
+docker pull noedops/spacefolders:osmosis
+docker pull noedops/spacefolders:osmosis-v14.0.1
+docker pull noedops/spacefolders:osmosis-14.0.1
+```
+
 ### [polygon-bor](https://hub.docker.com/r/noedops/spacefolders/tags?page=1&name=polygon-bor)
 
 ```shell
@@ -441,6 +449,3 @@ docker pull noedops/spacefolders:vidulum
 docker pull noedops/spacefolders:vidulum-v1.2.0
 docker pull noedops/spacefolders:vidulum-1.2.0
 ```
-2.0
-```
-`
