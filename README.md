@@ -414,8 +414,8 @@ docker pull noedops/spacefolders:stargaze-8.1.0
 
 ```shell
 docker pull noedops/spacefolders:stride
-docker pull noedops/spacefolders:stride-v5.0.0
-docker pull noedops/spacefolders:stride-5.0.0
+docker pull noedops/spacefolders:stride-v7.0.0
+docker pull noedops/spacefolders:stride-7.0.0
 ```
 
 ### [tendermint](https://hub.docker.com/r/noedops/spacefolders/tags?page=1&name=tendermint)
