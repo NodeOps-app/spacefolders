@@ -398,8 +398,8 @@ docker pull noedops/spacefolders:sim-0.47.0
 
 ```shell
 docker pull noedops/spacefolders:sommelier
-docker pull noedops/spacefolders:sommelier-v4.0.3
-docker pull noedops/spacefolders:sommelier-4.0.3
+docker pull noedops/spacefolders:sommelier-v5.0.0
+docker pull noedops/spacefolders:sommelier-5.0.0
 ```
 
 ### [stargaze](https://hub.docker.com/r/noedops/spacefolders/tags?page=1&name=stargaze)
