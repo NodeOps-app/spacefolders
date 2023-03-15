@@ -126,8 +126,8 @@ docker pull noedops/spacefolders:crescent-4.0.0
 
 ```shell
 docker pull noedops/spacefolders:cronos
-docker pull noedops/spacefolders:cronos-v1.0.3
-docker pull noedops/spacefolders:cronos-1.0.3
+docker pull noedops/spacefolders:cronos-v1.0.5
+docker pull noedops/spacefolders:cronos-1.0.5
 ```
 
 ### [cryptoorgchain](https://hub.docker.com/r/noedops/spacefolders/tags?page=1&name=cryptoorgchain)
