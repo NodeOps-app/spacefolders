@@ -238,8 +238,8 @@ docker pull noedops/spacefolders:ics-1.0.0-rc7
 
 ```shell
 docker pull noedops/spacefolders:injective
-docker pull noedops/spacefolders:injective-v1.9.0-1673970775
-docker pull noedops/spacefolders:injective-1.9.0-1673970775
+docker pull noedops/spacefolders:injective-v1.10-1678709842
+docker pull noedops/spacefolders:injective-1.10-1678709842
 ```
 
 ### [irisnet](https://hub.docker.com/r/noedops/spacefolders/tags?page=1&name=irisnet)
@@ -441,3 +441,4 @@ docker pull noedops/spacefolders:vidulum
 docker pull noedops/spacefolders:vidulum-v1.2.0
 docker pull noedops/spacefolders:vidulum-1.2.0
 ```
+`
