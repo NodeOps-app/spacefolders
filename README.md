@@ -390,8 +390,8 @@ docker pull noedops/spacefolders:sifchain-1.1.0-be
 
 ```shell
 docker pull noedops/spacefolders:sim
-docker pull noedops/spacefolders:sim-v0.45.13
-docker pull noedops/spacefolders:sim-0.45.13
+docker pull noedops/spacefolders:sim-v0.47.0
+docker pull noedops/spacefolders:sim-0.47.0
 ```
 
 ### [sommelier](https://hub.docker.com/r/noedops/spacefolders/tags?page=1&name=sommelier)
@@ -449,3 +449,4 @@ docker pull noedops/spacefolders:vidulum
 docker pull noedops/spacefolders:vidulum-v1.2.0
 docker pull noedops/spacefolders:vidulum-1.2.0
 ```
+`
