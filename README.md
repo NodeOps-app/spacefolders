@@ -254,8 +254,8 @@ docker pull noedops/spacefolders:irisnet-1.4.1
 
 ```shell
 docker pull noedops/spacefolders:juno
-docker pull noedops/spacefolders:juno-v11.0.3
-docker pull noedops/spacefolders:juno-11.0.3
+docker pull noedops/spacefolders:juno-v13.0.0
+docker pull noedops/spacefolders:juno-13.0.0
 ```
 
 ### [kichain](https://hub.docker.com/r/noedops/spacefolders/tags?page=1&name=kichain)
