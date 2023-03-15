@@ -334,8 +334,8 @@ docker pull noedops/spacefolders:osmosis-14.0.1
 
 ```shell
 docker pull noedops/spacefolders:polygon-bor
-docker pull noedops/spacefolders:polygon-bor-v0.3.3
-docker pull noedops/spacefolders:polygon-bor-0.3.3
+docker pull noedops/spacefolders:polygon-bor-v0.3.4
+docker pull noedops/spacefolders:polygon-bor-0.3.4
 ```
 
 ### [polygon-geth](https://hub.docker.com/r/noedops/spacefolders/tags?page=1&name=polygon-geth)
