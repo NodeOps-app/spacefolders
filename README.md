@@ -14,8 +14,8 @@ docker pull noedops/spacefolders:acrechain-1.1.1
 
 ```shell
 docker pull noedops/spacefolders:althea
-docker pull noedops/spacefolders:althea-v0.3.0
-docker pull noedops/spacefolders:althea-0.3.0
+docker pull noedops/spacefolders:althea-v0.4.0
+docker pull noedops/spacefolders:althea-0.4.0
 ```
 
 ### [archway](https://hub.docker.com/r/noedops/spacefolders/tags?page=1&name=archway)
