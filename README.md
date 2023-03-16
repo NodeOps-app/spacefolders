@@ -230,8 +230,8 @@ docker pull noedops/spacefolders:icqd-lates
 
 ```shell
 docker pull noedops/spacefolders:ics
-docker pull noedops/spacefolders:ics-v1.0.0-rc7
-docker pull noedops/spacefolders:ics-1.0.0-rc7
+docker pull noedops/spacefolders:ics-v1.0.0
+docker pull noedops/spacefolders:ics-1.0.0
 ```
 
 ### [injective](https://hub.docker.com/r/noedops/spacefolders/tags?page=1&name=injective)
@@ -448,5 +448,7 @@ docker pull noedops/spacefolders:ununifi-1.0.0-beta.4
 docker pull noedops/spacefolders:vidulum
 docker pull noedops/spacefolders:vidulum-v1.2.0
 docker pull noedops/spacefolders:vidulum-1.2.0
+```
+2.0
 ```
 `
