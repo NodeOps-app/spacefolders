@@ -326,8 +326,8 @@ docker pull noedops/spacefolders:onomy-1.0.1
 
 ```shell
 docker pull noedops/spacefolders:osmosis
-docker pull noedops/spacefolders:osmosis-v14.0.1
-docker pull noedops/spacefolders:osmosis-14.0.1
+docker pull noedops/spacefolders:osmosis-v15.0.0
+docker pull noedops/spacefolders:osmosis-15.0.0
 ```
 
 ### [polygon-bor](https://hub.docker.com/r/noedops/spacefolders/tags?page=1&name=polygon-bor)
