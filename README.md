@@ -46,8 +46,8 @@ docker pull noedops/spacefolders:axelar-0.31.3
 
 ```shell
 docker pull noedops/spacefolders:bitcanna
-docker pull noedops/spacefolders:bitcanna-v1.6.1
-docker pull noedops/spacefolders:bitcanna-1.6.1
+docker pull noedops/spacefolders:bitcanna-v1.6.2
+docker pull noedops/spacefolders:bitcanna-1.6.2
 ```
 
 ### [bitsong](https://hub.docker.com/r/noedops/spacefolders/tags?page=1&name=bitsong)
