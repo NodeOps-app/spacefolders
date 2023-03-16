@@ -102,8 +102,8 @@ docker pull noedops/spacefolders:celestia-node-0.6.4
 
 ```shell
 docker pull noedops/spacefolders:cheqd
-docker pull noedops/spacefolders:cheqd-v1.2.5
-docker pull noedops/spacefolders:cheqd-1.2.5
+docker pull noedops/spacefolders:cheqd-v1.3.0
+docker pull noedops/spacefolders:cheqd-1.3.0
 ```
 
 ### [comdex](https://hub.docker.com/r/noedops/spacefolders/tags?page=1&name=comdex)
