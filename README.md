@@ -206,8 +206,8 @@ docker pull noedops/spacefolders:gravitybridge-1.8.2
 
 ```shell
 docker pull noedops/spacefolders:ibc-go-simd
-docker pull noedops/spacefolders:ibc-go-simd-v7.0.0-beta2
-docker pull noedops/spacefolders:ibc-go-simd-7.0.0-beta2
+docker pull noedops/spacefolders:ibc-go-simd-v7.0.0
+docker pull noedops/spacefolders:ibc-go-simd-7.0.0
 ```
 
 ### [icad](https://hub.docker.com/r/noedops/spacefolders/tags?page=1&name=icad)
@@ -448,6 +448,8 @@ docker pull noedops/spacefolders:ununifi-1.0.0-beta.4
 docker pull noedops/spacefolders:vidulum
 docker pull noedops/spacefolders:vidulum-v1.2.0
 docker pull noedops/spacefolders:vidulum-1.2.0
+```
+m-1.2.0
 ```
 ```
 `
