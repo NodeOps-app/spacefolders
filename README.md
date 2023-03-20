@@ -262,8 +262,8 @@ docker pull noedops/spacefolders:juno-13.0.0
 
 ```shell
 docker pull noedops/spacefolders:kichain
-docker pull noedops/spacefolders:kichain-4.2.0
-docker pull noedops/spacefolders:kichain-4.2.0
+docker pull noedops/spacefolders:kichain-5.0.0
+docker pull noedops/spacefolders:kichain-5.0.0
 ```
 
 ### [kujira](https://hub.docker.com/r/noedops/spacefolders/tags?page=1&name=kujira)
