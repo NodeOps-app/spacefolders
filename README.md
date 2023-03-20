@@ -38,8 +38,8 @@ docker pull noedops/spacefolders:assetmantle-0.3.1
 
 ```shell
 docker pull noedops/spacefolders:axelar
-docker pull noedops/spacefolders:axelar-v0.31.3
-docker pull noedops/spacefolders:axelar-0.31.3
+docker pull noedops/spacefolders:axelar-v0.31.4
+docker pull noedops/spacefolders:axelar-0.31.4
 ```
 
 ### [bitcanna](https://hub.docker.com/r/noedops/spacefolders/tags?page=1&name=bitcanna)
