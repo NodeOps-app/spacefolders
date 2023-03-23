@@ -270,8 +270,8 @@ docker pull noedops/spacefolders:kichain-5.0.0
 
 ```shell
 docker pull noedops/spacefolders:kujira
-docker pull noedops/spacefolders:kujira-v0.8.0
-docker pull noedops/spacefolders:kujira-0.8.0
+docker pull noedops/spacefolders:kujira-v0.8.5
+docker pull noedops/spacefolders:kujira-0.8.5
 ```
 
 ### [likecoin](https://hub.docker.com/r/noedops/spacefolders/tags?page=1&name=likecoin)
