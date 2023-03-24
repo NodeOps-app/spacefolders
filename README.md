@@ -174,8 +174,8 @@ docker pull noedops/spacefolders:emoney-1.2.0
 
 ```shell
 docker pull noedops/spacefolders:evmos
-docker pull noedops/spacefolders:evmos-v12.0.0-rc3
-docker pull noedops/spacefolders:evmos-12.0.0-rc3
+docker pull noedops/spacefolders:evmos-v12.0.0
+docker pull noedops/spacefolders:evmos-12.0.0
 ```
 
 ### [fetchhub](https://hub.docker.com/r/noedops/spacefolders/tags?page=1&name=fetchhub)
@@ -448,6 +448,8 @@ docker pull noedops/spacefolders:ununifi-1.0.0-beta.4
 docker pull noedops/spacefolders:vidulum
 docker pull noedops/spacefolders:vidulum-v1.2.0
 docker pull noedops/spacefolders:vidulum-1.2.0
+```
+2.0
 ```
 `
 1.2.0
