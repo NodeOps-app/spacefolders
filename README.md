@@ -342,8 +342,8 @@ docker pull noedops/spacefolders:polygon-bor-0.3.7
 
 ```shell
 docker pull noedops/spacefolders:polygon-geth
-docker pull noedops/spacefolders:polygon-geth-v0.3.6
-docker pull noedops/spacefolders:polygon-geth-0.3.6
+docker pull noedops/spacefolders:polygon-geth-v0.3.7
+docker pull noedops/spacefolders:polygon-geth-0.3.7
 ```
 
 ### [polygon-heimdall](https://hub.docker.com/r/noedops/spacefolders/tags?page=1&name=polygon-heimdall)
