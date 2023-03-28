@@ -358,8 +358,8 @@ docker pull noedops/spacefolders:polygon-heimdall-0.3.2
 
 ```shell
 docker pull noedops/spacefolders:regen
-docker pull noedops/spacefolders:regen-v5.0.0
-docker pull noedops/spacefolders:regen-5.0.0
+docker pull noedops/spacefolders:regen-v5.1.0
+docker pull noedops/spacefolders:regen-5.1.0
 ```
 
 ### [rizon](https://hub.docker.com/r/noedops/spacefolders/tags?page=1&name=rizon)
