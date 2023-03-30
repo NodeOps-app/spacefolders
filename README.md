@@ -22,8 +22,8 @@ docker pull noedops/spacefolders:althea-0.4.0
 
 ```shell
 docker pull noedops/spacefolders:archway
-docker pull noedops/spacefolders:archway-v0.2.0
-docker pull noedops/spacefolders:archway-0.2.0
+docker pull noedops/spacefolders:archway-v0.3.0
+docker pull noedops/spacefolders:archway-0.3.0
 ```
 
 ### [assetmantle](https://hub.docker.com/r/noedops/spacefolders/tags?page=1&name=assetmantle)
