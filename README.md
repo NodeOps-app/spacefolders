@@ -150,8 +150,8 @@ docker pull noedops/spacefolders:decentr-1.6.2
 
 ```shell
 docker pull noedops/spacefolders:desmos
-docker pull noedops/spacefolders:desmos-v4.7.1
-docker pull noedops/spacefolders:desmos-4.7.1
+docker pull noedops/spacefolders:desmos-v4.8.0
+docker pull noedops/spacefolders:desmos-4.8.0
 ```
 
 ### [duality](https://hub.docker.com/r/noedops/spacefolders/tags?page=1&name=duality)
