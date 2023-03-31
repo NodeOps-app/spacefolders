@@ -78,8 +78,8 @@ docker pull noedops/spacefolders:burnt-0.0.2
 
 ```shell
 docker pull noedops/spacefolders:celestia-app
-docker pull noedops/spacefolders:celestia-app-v0.12.1
-docker pull noedops/spacefolders:celestia-app-0.12.1
+docker pull noedops/spacefolders:celestia-app-v0.12.2
+docker pull noedops/spacefolders:celestia-app-0.12.2
 ```
 
 ### [celestia-core](https://hub.docker.com/r/noedops/spacefolders/tags?page=1&name=celestia-core)
