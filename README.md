@@ -110,8 +110,8 @@ docker pull noedops/spacefolders:cheqd-1.4.0
 
 ```shell
 docker pull noedops/spacefolders:comdex
-docker pull noedops/spacefolders:comdex-v8.1.1
-docker pull noedops/spacefolders:comdex-8.1.1
+docker pull noedops/spacefolders:comdex-v9.1.0
+docker pull noedops/spacefolders:comdex-9.1.0
 ```
 
 ### [crescent](https://hub.docker.com/r/noedops/spacefolders/tags?page=1&name=crescent)
