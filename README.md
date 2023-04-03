@@ -406,8 +406,8 @@ docker pull noedops/spacefolders:sommelier-5.0.0
 
 ```shell
 docker pull noedops/spacefolders:stargaze
-docker pull noedops/spacefolders:stargaze-v9.0.0
-docker pull noedops/spacefolders:stargaze-9.0.0
+docker pull noedops/spacefolders:stargaze-v9.0.1
+docker pull noedops/spacefolders:stargaze-9.0.1
 ```
 
 ### [stride](https://hub.docker.com/r/noedops/spacefolders/tags?page=1&name=stride)
