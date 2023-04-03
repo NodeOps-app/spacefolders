@@ -190,8 +190,8 @@ docker pull noedops/spacefolders:fetchhub-0.10.6
 
 ```shell
 docker pull noedops/spacefolders:gaia
-docker pull noedops/spacefolders:gaia-v9.0.1
-docker pull noedops/spacefolders:gaia-9.0.1
+docker pull noedops/spacefolders:gaia-v9.0.2
+docker pull noedops/spacefolders:gaia-9.0.2
 ```
 
 ### [gravitybridge](https://hub.docker.com/r/noedops/spacefolders/tags?page=1&name=gravitybridge)
