@@ -294,8 +294,8 @@ docker pull noedops/spacefolders:lumnetwork-1.3.1
 
 ```shell
 docker pull noedops/spacefolders:neutron
-docker pull noedops/spacefolders:neutron-v0.1.1
-docker pull noedops/spacefolders:neutron-0.1.1
+docker pull noedops/spacefolders:neutron-v0.3.0
+docker pull noedops/spacefolders:neutron-0.3.0
 ```
 
 ### [nibiru](https://hub.docker.com/r/noedops/spacefolders/tags?page=1&name=nibiru)
