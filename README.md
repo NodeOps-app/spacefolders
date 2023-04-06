@@ -350,8 +350,8 @@ docker pull noedops/spacefolders:polygon-geth-0.3.7
 
 ```shell
 docker pull noedops/spacefolders:polygon-heimdall
-docker pull noedops/spacefolders:polygon-heimdall-v0.3.2
-docker pull noedops/spacefolders:polygon-heimdall-0.3.2
+docker pull noedops/spacefolders:polygon-heimdall-v0.3.3
+docker pull noedops/spacefolders:polygon-heimdall-0.3.3
 ```
 
 ### [regen](https://hub.docker.com/r/noedops/spacefolders/tags?page=1&name=regen)
