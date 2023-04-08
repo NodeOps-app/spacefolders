@@ -1,6 +1,6 @@
 # Spacefolders
 
-Actively creating container images for 55 chains.
+Actively creating container images for 56 chains.
 
 ### [acrechain](https://hub.docker.com/r/noedops/spacefolders/tags?page=1&name=acrechain)
 
@@ -410,6 +410,14 @@ docker pull noedops/spacefolders:stargaze-v9.0.1
 docker pull noedops/spacefolders:stargaze-9.0.1
 ```
 
+### [starname](https://hub.docker.com/r/noedops/spacefolders/tags?page=1&name=starname)
+
+```shell
+docker pull noedops/spacefolders:starname
+docker pull noedops/spacefolders:starname-v0.11.7
+docker pull noedops/spacefolders:starname-0.11.7
+```
+
 ### [stride](https://hub.docker.com/r/noedops/spacefolders/tags?page=1&name=stride)
 
 ```shell
@@ -449,7 +457,3 @@ docker pull noedops/spacefolders:vidulum
 docker pull noedops/spacefolders:vidulum-v1.2.0
 docker pull noedops/spacefolders:vidulum-1.2.0
 ```
-1.2.0
-```
-```
-`
