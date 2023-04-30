@@ -1,6 +1,6 @@
 # Spacefolders
 
-Actively creating container images for 56 chains.
+Actively creating container images for 60 chains.
 
 ### [acrechain](https://hub.docker.com/r/noedops/spacefolders/tags?page=1&name=acrechain)
 
@@ -42,6 +42,14 @@ docker pull noedops/spacefolders:axelar-v0.31.4
 docker pull noedops/spacefolders:axelar-0.31.4
 ```
 
+### [basilisk](https://hub.docker.com/r/noedops/spacefolders/tags?page=1&name=basilisk)
+
+```shell
+docker pull noedops/spacefolders:basilisk
+docker pull noedops/spacefolders:basilisk-v13.0.0
+docker pull noedops/spacefolders:basilisk-13.0.0
+```
+
 ### [bitcanna](https://hub.docker.com/r/noedops/spacefolders/tags?page=1&name=bitcanna)
 
 ```shell
@@ -72,6 +80,14 @@ docker pull noedops/spacefolders:bostrom-0.3.2
 docker pull noedops/spacefolders:burnt
 docker pull noedops/spacefolders:burnt-v0.0.2
 docker pull noedops/spacefolders:burnt-0.0.2
+```
+
+### [carbon](https://hub.docker.com/r/noedops/spacefolders/tags?page=1&name=carbon)
+
+```shell
+docker pull noedops/spacefolders:carbon
+docker pull noedops/spacefolders:carbon-v2.24.5
+docker pull noedops/spacefolders:carbon-2.24.5
 ```
 
 ### [celestia-app](https://hub.docker.com/r/noedops/spacefolders/tags?page=1&name=celestia-app)
@@ -152,6 +168,14 @@ docker pull noedops/spacefolders:decentr-1.6.2
 docker pull noedops/spacefolders:desmos
 docker pull noedops/spacefolders:desmos-v4.8.0
 docker pull noedops/spacefolders:desmos-4.8.0
+```
+
+### [dig](https://hub.docker.com/r/noedops/spacefolders/tags?page=1&name=dig)
+
+```shell
+docker pull noedops/spacefolders:dig
+docker pull noedops/spacefolders:dig-v3.4.0
+docker pull noedops/spacefolders:dig-3.4.0
 ```
 
 ### [duality](https://hub.docker.com/r/noedops/spacefolders/tags?page=1&name=duality)
@@ -306,12 +330,20 @@ docker pull noedops/spacefolders:nibiru-v0.20.0-rc1
 docker pull noedops/spacefolders:nibiru-0.20.0-rc1
 ```
 
+### [nomic](https://hub.docker.com/r/noedops/spacefolders/tags?page=1&name=nomic)
+
+```shell
+docker pull noedops/spacefolders:nomic
+docker pull noedops/spacefolders:nomic-v3
+docker pull noedops/spacefolders:nomic-3
+```
+
 ### [omniflixhub](https://hub.docker.com/r/noedops/spacefolders/tags?page=1&name=omniflixhub)
 
 ```shell
 docker pull noedops/spacefolders:omniflixhub
-docker pull noedops/spacefolders:omniflixhub-v0.8.0
-docker pull noedops/spacefolders:omniflixhub-0.8.0
+docker pull noedops/spacefolders:omniflixhub-v0.10.0
+docker pull noedops/spacefolders:omniflixhub-0.10.0
 ```
 
 ### [onomy](https://hub.docker.com/r/noedops/spacefolders/tags?page=1&name=onomy)
